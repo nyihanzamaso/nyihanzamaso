@@ -15,15 +15,15 @@ I'm a passionate Machine Learning Engineer with experience in Machine Learning a
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Aline-CROIRE&theme=White&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Aline-CROIRE&theme=white&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=nyihanzamaso&theme=White&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=nyihanzamaso&theme=white&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aline-CROIRE&theme=white&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Aline-CROIRE&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=nyihanzamaso&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Aline-CROIRE&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=nyihanzamaso&icon=0&color=0)](https://visitcount.itsvg.in)
 ## Skills
 
 - Machine Learning
@@ -34,7 +34,7 @@ I'm a passionate Machine Learning Engineer with experience in Machine Learning a
 - JavaScript
 
   ## GET IN TOUCH
-[![Twitter](https://img.shields.io/twitter/follow/@AlineNiyon99024?style=social)](https://x.com/nyihanzama20217)
+[![Twitter](https://img.shields.io/twitter/follow/?style=social)](https://x.com/nyihanzama20217)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/nyihanzamaso-paschal-53043333a/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-brightgreen)](https://wa.me/0786611093)
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-orange)](https://www.instagram.com/nyihanzamasopascal/)

@@ -17,7 +17,7 @@ I'm a passionate Machine Learning Engineer with experience in Machine Learning a
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=nyihanzamaso&theme=White&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=nyihanzamaso&theme=white&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=nyihanzamasoE&theme=white&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=nyihanzamaso&theme=white&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=nyihanzamaso&theme=radical&no-frame=false&no-bg=false&margin-w=4)
